@@ -6,10 +6,15 @@ Este projeto é um **encurtador de URLs** com interface gráfica e servidor web,
 
 ## 🚀 Funcionalidades
 ✅ Interface gráfica com **Tkinter** para facilitar a criação de URLs encurtadas.
+
 ✅ Integração com **Redis** para armazenamento persistente e rastreamento de estatísticas.
+
 ✅ Servidor **Flask** para redirecionamento automático das URLs encurtadas.
+
 ✅ Suporte a **tempo de expiração** para URLs armazenadas no Redis.
+
 ✅ Geração de **códigos curtos aleatórios** para cada URL encurtada.
+
 ✅ **Ranking** das URLs mais acessadas (somente no modo Redis).
 
 ---
