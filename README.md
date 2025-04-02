@@ -27,8 +27,8 @@ Este projeto é um **encurtador de URLs** com interface gráfica e servidor web,
 ---
 ## 🎨 Interface Gráfica (Tkinter)
 A interface gráfica foi desenvolvida com **Tkinter**, permitindo a criação e gerenciamento de URLs encurtadas de forma intuitiva. Ela possui duas abas:
-1. **Redis Shortener** → Utiliza Redis para armazenamento.
-2. **Local Shortener** → Usa um dicionário local para testes.
+1. **Encurtador Redis** → Utiliza Redis para armazenamento.
+2. **Encurtador Local(Teste)** → Usa um dicionário local para testes.
 
 Cada aba contém:
 - Campo de entrada para a URL original.
